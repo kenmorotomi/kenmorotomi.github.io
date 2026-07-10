@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+Email: ken.morotomi@gwu.edu
+
+GitHub: [GitHub profile](https://github.com/kenmorotomi)
+
+LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/kenmorotomi)
