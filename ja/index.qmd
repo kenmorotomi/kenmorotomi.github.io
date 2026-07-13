@@ -1,9 +1,46 @@
 ---
-title: "諸富 健"
+page-layout: custom
+navbar: false
 lang: ja
 ---
 
-![](../images/headshot.jpg){width=320 fig-align="left"}
+:::: {.site-grid}
+
+::: {.profile}
+
+![](../images/headshot.jpg){.profile-photo fig-alt="諸富健のプロフィール写真"}
+
+# <ruby>諸富<rt>もろとみ</rt></ruby> <ruby>健<rt>けん</rt></ruby>
+
+ジョージ・ワシントン大学  
+経済学博士課程  
+2026年秋進学予定
+
+<div class="social-links">
+
+<a href="mailto:ken.morotomi@gwu.edu" aria-label="メール" title="メール">
+  <i class="bi bi-envelope"></i>
+</a>
+
+<a href="https://github.com/kenmorotomi" aria-label="GitHub" title="GitHub">
+  <i class="bi bi-github"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/kenmorotomi/" aria-label="LinkedIn" title="LinkedIn">
+  <i class="bi bi-linkedin"></i>
+</a>
+
+<a href="../files/cv.pdf" class="text-link">CV</a>
+
+<a href="../" class="text-link">English</a>
+
+</div>
+
+:::
+
+::: {.main-content}
+
+## 自己紹介
 
 2026年秋より、ジョージ・ワシントン大学経済学部の博士課程に在籍しています。研究関心は応用ミクロ経済学を中心に、開発経済学および労働経済学です。
 
@@ -13,23 +50,19 @@ lang: ja
 
 ## 研究分野
 
-- 応用ミクロ経済学
-- 開発経済学
-- 労働経済学
-
+応用ミクロ経済学・開発経済学・労働経済学
 
 ## 経歴
 
-| 年 | 所属 |
+| 年 | 所属・内容 |
 |---|---|
 | 2016–2017 | 熊本県立熊本高等学校 |
-| 2017–2019 | UWC Atlantic College（英国・ウェールズ） |
-| 2019–2023 | Williams College（米国・マサチューセッツ州） |
+| 2017–2019 | UWC Atlantic College（英国）|
+| 2019–2023 | Williams College（米国） |
 | 2023–2026 | Charles River Associates（米国・ボストン） |
-| 2026–現在 | The George Washington University（米国・ワシントンD.C.） |
+| 2026–現在 | The George Washington University |
 
-## 連絡先
+:::
 
-ken.morotomi [at] gwu [dot] edu
+::::
 
-[LinkedIn](https://www.linkedin.com/in/kenmorotomi)で繋がりましょう！

@@ -1,15 +1,58 @@
 ---
-title: "Ken Morotomi"
+page-layout: custom
+navbar: false
+lang: en
 ---
 
-![](images/headshot.jpg){width=320 fig-align="left"}
+:::: {.site-grid}
 
-I am an incoming PhD student in Economics at George Washington University.
+::: {.profile}
 
-My research interests are in applied microeconomics, development economics, and labor economics.
+![](images/headshot.jpg){.profile-photo fig-alt="Portrait of Ken Morotomi"}
 
-Before beginning my PhD, I worked at Charles River Associates in Boston. I received my B.A. in Economics and German from Williams College. 
+# Ken Morotomi
+
+Incoming Ph.D. Student in Economics  
+George Washington University
+
+<div class="social-links">
+
+<a href="mailto:ken.morotomi@gwu.edu" aria-label="Email" title="Email">
+  <i class="bi bi-envelope"></i>
+</a>
+
+<a href="https://github.com/kenmorotomi" aria-label="GitHub" title="GitHub">
+  <i class="bi bi-github"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/kenmorotomi/" aria-label="LinkedIn" title="LinkedIn">
+  <i class="bi bi-linkedin"></i>
+</a>
+
+<a href="files/cv.pdf" class="text-link">CV</a>
+
+<a href="ja/" class="text-link">日本語</a>
+
+</div>
+
+:::
+
+::: {.main-content}
+
+## About
+
+I am an incoming Ph.D. student in Economics at George Washington University. My research interests are in applied microeconomics, with a focus on development economics and labor economics.
+
+Before beginning my PhD, I worked at Charles River Associates in Boston. I received my B.A. in Economics and German from Williams College.
+
+## Research Interests
+
+Applied microeconomics · Development economics · Labor economics
 
 ## Contact
 
-Email: ken.morotomi [at] gwu [dot] edu
+ken.morotomi [at] gwu [dot] edu
+
+:::
+
+::::
