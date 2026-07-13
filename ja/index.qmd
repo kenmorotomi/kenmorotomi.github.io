@@ -1,0 +1,35 @@
+---
+title: "諸富 健"
+lang: ja
+---
+
+![](../images/headshot.jpg){width=320 fig-align="left"}
+
+2026年秋より、ジョージ・ワシントン大学経済学部の博士課程に在籍しています。研究関心は応用ミクロ経済学を中心に、開発経済学および労働経済学です。
+
+博士課程進学前は、Charles River Associatesのボストン・オフィスに勤務し、企業価値評価や天然資源に関する訴訟・紛争案件において、経済分析やコンサルティング業務に従事しました。Williams Collegeでは経済学とドイツ語を専攻し、経済学の優等学位を取得しました。
+
+幼少期を東南アジアで過ごし、熊本県立熊本高等学校在学中に、日本経団連およびUWC日本協会の派遣生として英国のUWC Atlantic Collegeに留学し、国際バカロレアを取得しました。様々な国での経験を通じて、制度や労働市場、公共政策が人々の経済的機会に与える影響に関心を持つようになりました。
+
+## 研究分野
+
+- 応用ミクロ経済学
+- 開発経済学
+- 労働経済学
+
+
+## 経歴
+
+| 年 | 所属 |
+|---|---|
+| 2016–2017 | 熊本県立熊本高等学校 |
+| 2017–2019 | UWC Atlantic College（英国・ウェールズ） |
+| 2019–2023 | Williams College（米国・マサチューセッツ州） |
+| 2023–2026 | Charles River Associates（米国・ボストン） |
+| 2026–現在 | The George Washington University（米国・ワシントンD.C.） |
+
+## 連絡先
+
+ken.morotomi [at] gwu [dot] edu
+
+[LinkedIn](https://www.linkedin.com/in/kenmorotomi)で繋がりましょう！

@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-My CV will be available here soon.
+Download my CV as a PDF [here](files/cv.pdf).

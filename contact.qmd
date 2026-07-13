@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-Email: ken.morotomi@gwu.edu
+Email: ken.morotomi [at] gwu [dot] edu
 
 GitHub: [GitHub profile](https://github.com/kenmorotomi)
 

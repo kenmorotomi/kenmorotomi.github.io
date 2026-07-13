@@ -2,19 +2,14 @@
 title: "Ken Morotomi"
 ---
 
+![](images/headshot.jpg){width=320 fig-align="left"}
+
 I am an incoming PhD student in Economics at George Washington University.
 
 My research interests are in applied microeconomics, development economics, and labor economics.
 
-Before beginning my PhD, I worked at Charles River Associates. I received my B.A. from Williams College.
-
-## Research Interests
-
-- Applied microeconomics
-- Development economics
-- Labor economics
-- Environmental and resource-related questions
+Before beginning my PhD, I worked at Charles River Associates in Boston. I received my B.A. in Economics and German from Williams College. 
 
 ## Contact
 
-Email: ken.morotomi@gwu.edu
+Email: ken.morotomi [at] gwu [dot] edu

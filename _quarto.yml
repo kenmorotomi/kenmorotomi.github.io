@@ -14,7 +14,10 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
-
+      - href: https://github.com/kenmorotomi
+        text: GitHub
+      - href: ja/index.qmd
+        text: 日本語
 format:
   html:
     theme: cosmo

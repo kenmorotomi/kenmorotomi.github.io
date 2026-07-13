@@ -10,5 +10,20 @@
   },
   "cv.qmd": {
     "cv.html": "3e6aedde"
+  },
+  "images.qmd": {
+    "images.html": "694049f3"
+  },
+  "ja/research.qmd": {
+    "research.html": "3e71b9dc"
+  },
+  "ja/contact.qmd": {
+    "contact.html": "97149226"
+  },
+  "ja/index.qmd": {
+    "index.html": "7aceff19"
+  },
+  "ja/cv.qmd": {
+    "cv.html": "f4101ec8"
   }
 }
